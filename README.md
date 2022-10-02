@@ -10,7 +10,7 @@ note: You can the words list by changing the word.txt file.
 
 ------------------
 
-<img src = "https://img.favpng.com/14/2/0/ipython-jupyter-logo-png-favpng-FUMAWPpYyHYMxuJPZbMXKBqBt.jpg" width="100" height="100">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="100" height="100">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" width="100" height="100">
 ------------------
 
